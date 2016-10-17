@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "assert": "^1.4.1",
-    "mongoose": "^4.6.3"
+    "mongoose": "^4.6.3",
+    "mongoose-currency": "^0.2.0"
   }
 }
